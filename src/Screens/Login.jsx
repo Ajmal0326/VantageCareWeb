@@ -114,8 +114,6 @@ const Login = () => {
             Sign in
           </button>
         </form>
-
-        <div className="separator"></div>
         {loading && (
   <div className="loader-overlay">
     <div className="loader"></div>
